@@ -1,0 +1,210 @@
+File: im0001
+- Confusion Matrix
+-- True positive: 16279
+-- False positive: 17289
+-- True negative: 367040
+-- False negative: 22892
+- Measure
+-- Accuracy: 0.9051216056670602
+-- Sensitivity: 0.41558806259732967
+-- Specificity: 0.9550151042466221
+File: im0002
+- Confusion Matrix
+-- True positive: 10333
+-- False positive: 15809
+-- True negative: 384176
+-- False negative: 13182
+- Measure
+-- Accuracy: 0.9315442739079103
+-- Sensitivity: 0.4394216457580268
+-- Specificity: 0.9604760178506694
+File: im0003
+- Confusion Matrix
+-- True positive: 14295
+-- False positive: 25155
+-- True negative: 373938
+-- False negative: 10112
+- Measure
+-- Accuracy: 0.9167249114521842
+-- Sensitivity: 0.5856926291637645
+-- Specificity: 0.9369695785192925
+File: im0004
+- Confusion Matrix
+-- True positive: 2999
+-- False positive: 3147
+-- True negative: 389751
+-- False negative: 27603
+- Measure
+-- Accuracy: 0.9273907910271547
+-- Sensitivity: 0.09800013071041108
+-- Specificity: 0.9919902875555487
+File: im0005
+- Confusion Matrix
+-- True positive: 19141
+-- False positive: 10144
+-- True negative: 368871
+-- False negative: 25344
+- Measure
+-- Accuracy: 0.9162030696576151
+-- Sensitivity: 0.4302798696189727
+-- Specificity: 0.9732358877616981
+File: im0044
+- Confusion Matrix
+-- True positive: 18777
+-- False positive: 11337
+-- True negative: 363782
+-- False negative: 29604
+- Measure
+-- Accuracy: 0.9033270365997639
+-- Sensitivity: 0.38810690146958515
+-- Specificity: 0.9697775905779232
+File: im0077
+- Confusion Matrix
+-- True positive: 25464
+-- False positive: 5000
+-- True negative: 363488
+-- False negative: 29548
+- Measure
+-- Accuracy: 0.9184226682408501
+-- Sensitivity: 0.46288082600159963
+-- Specificity: 0.9864310371029722
+File: im0081
+- Confusion Matrix
+-- True positive: 27047
+-- False positive: 12253
+-- True negative: 353057
+-- False negative: 31143
+- Measure
+-- Accuracy: 0.897530106257379
+-- Sensitivity: 0.4648049493040041
+-- Specificity: 0.9664586241822014
+File: im0082
+- Confusion Matrix
+-- True positive: 21959
+-- False positive: 4458
+-- True negative: 367148
+-- False negative: 29935
+- Measure
+-- Accuracy: 0.918788665879575
+-- Sensitivity: 0.4231510386557213
+-- Specificity: 0.9880034229802532
+File: im0139
+- Confusion Matrix
+-- True positive: 25132
+-- False positive: 10720
+-- True negative: 348065
+-- False negative: 39583
+- Measure
+-- Accuracy: 0.8812207792207792
+-- Sensitivity: 0.3883489144711427
+-- Specificity: 0.9701213818860878
+File: im0162
+- Confusion Matrix
+-- True positive: 21387
+-- False positive: 5157
+-- True negative: 369841
+-- False negative: 27115
+- Measure
+-- Accuracy: 0.9237969303423849
+-- Sensitivity: 0.4409508886231496
+-- Specificity: 0.9862479266556088
+File: im0163
+- Confusion Matrix
+-- True positive: 24063
+-- False positive: 4863
+-- True negative: 369532
+-- False negative: 25042
+- Measure
+-- Accuracy: 0.9293860684769776
+-- Sensitivity: 0.49003156501374606
+-- Specificity: 0.9870110444851027
+File: im0235
+- Confusion Matrix
+-- True positive: 25092
+-- False positive: 2933
+-- True negative: 360810
+-- False negative: 34665
+- Measure
+-- Accuracy: 0.9112207792207793
+-- Sensitivity: 0.41990059741954916
+-- Specificity: 0.9919366145877722
+File: im0236
+- Confusion Matrix
+-- True positive: 27807
+-- False positive: 6543
+-- True negative: 360735
+-- False negative: 28415
+- Measure
+-- Accuracy: 0.9174545454545454
+-- Sensitivity: 0.494592864003415
+-- Specificity: 0.9821851567477496
+File: im0239
+- Confusion Matrix
+-- True positive: 12880
+-- False positive: 4626
+-- True negative: 365803
+-- False negative: 40191
+- Measure
+-- Accuracy: 0.8941747343565526
+-- Sensitivity: 0.24269374988223325
+-- Specificity: 0.987511776885719
+File: im0240
+- Confusion Matrix
+-- True positive: 23296
+-- False positive: 11463
+-- True negative: 347453
+-- False negative: 41288
+- Measure
+-- Accuracy: 0.8754403778040142
+-- Sensitivity: 0.3607085346215781
+-- Specificity: 0.9680621649633898
+File: im0255
+- Confusion Matrix
+-- True positive: 24592
+-- False positive: 4631
+-- True negative: 363335
+-- False negative: 30942
+- Measure
+-- Accuracy: 0.9160023612750885
+-- Sensitivity: 0.4428278171930709
+-- Specificity: 0.9874145980878668
+File: im0291
+- Confusion Matrix
+-- True positive: 2855
+-- False positive: 3588
+-- True negative: 393762
+-- False negative: 23295
+- Measure
+-- Accuracy: 0.9365218417945691
+-- Sensitivity: 0.10917782026768642
+-- Specificity: 0.9909701774254436
+File: im0319
+- Confusion Matrix
+-- True positive: 1161
+-- False positive: 2817
+-- True negative: 394102
+-- False negative: 25420
+- Measure
+-- Accuracy: 0.9333246753246753
+-- Sensitivity: 0.04367781498062526
+-- Specificity: 0.9929028340794973
+File: im0324
+- Confusion Matrix
+-- True positive: 47
+-- False positive: 2958
+-- True negative: 378333
+-- False negative: 42162
+- Measure
+-- Accuracy: 0.8934592680047225
+-- Sensitivity: 0.0011135065981188845
+-- Specificity: 0.9922421457626852
+Total
+- Confusion Matrix
+-- True positive: 344606
+-- False positive: 164891
+-- True negative: 7383022
+-- False negative: 577481
+- Measure
+-- Accuracy: 0.912352774498229
+-- Sensitivity: 0.3737239544641666
+-- Specificity: 0.978154093721006

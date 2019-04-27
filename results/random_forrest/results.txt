@@ -1,0 +1,65 @@
+K-fold cross validation
+-k=10
+-[ 0.90967269  0.91453903  0.92033333  0.91746667  0.94046667  0.93706667
+  0.9114      0.89646667  0.92139476  0.86985799]
+-mean: 0.91386644694
+File: im0001
+- Confusion Matrix
+-- True positive: 7471
+-- False positive: 31088
+-- True negative: 353241
+-- False negative: 31700
+- Measure
+-- Accuracy: 0.8517402597402597
+-- Sensitivity: 0.19072783436726148
+-- Specificity: 0.919110970028283
+File: im0002
+- Confusion Matrix
+-- True positive: 6539
+-- False positive: 34243
+-- True negative: 365742
+-- False negative: 16976
+- Measure
+-- Accuracy: 0.8790578512396694
+-- Sensitivity: 0.27807782266638315
+-- Specificity: 0.91438928959836
+File: im0003
+- Confusion Matrix
+-- True positive: 7351
+-- False positive: 41335
+-- True negative: 357758
+-- False negative: 17056
+- Measure
+-- Accuracy: 0.8621227863046045
+-- Sensitivity: 0.30118408653255213
+-- Specificity: 0.896427649695685
+File: im0004
+- Confusion Matrix
+-- True positive: 3941
+-- False positive: 9485
+-- True negative: 383413
+-- False negative: 26661
+- Measure
+-- Accuracy: 0.9146493506493506
+-- Sensitivity: 0.12878243252075028
+-- Specificity: 0.975858874313435
+File: im0005
+- Confusion Matrix
+-- True positive: 10930
+-- False positive: 39091
+-- True negative: 339924
+-- False negative: 33555
+- Measure
+-- Accuracy: 0.8284628099173553
+-- Sensitivity: 0.2457007980218051
+-- Specificity: 0.8968616017835706
+Total
+- Confusion Matrix
+-- True positive: 36232
+-- False positive: 155242
+-- True negative: 1800078
+-- False negative: 125948
+- Measure
+-- Accuracy: 0.8672066115702479
+-- Sensitivity: 0.22340609199654704
+-- Specificity: 0.9206053229138964
